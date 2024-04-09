@@ -1,2 +1,2 @@
 "use Strict"
-alert('hi')
+alert('hi');
