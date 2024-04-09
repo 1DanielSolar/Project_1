@@ -1,1 +1,2 @@
 "use Strict"
+alert('hi')
