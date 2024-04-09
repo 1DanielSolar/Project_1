@@ -1,2 +1,2 @@
-"use Strict"
+"use strict"
 alert('hi');
